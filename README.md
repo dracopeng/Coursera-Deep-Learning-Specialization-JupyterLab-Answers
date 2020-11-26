@@ -6,5 +6,4 @@ Some are even wrong answers, which they don't have the expected answers with cou
 
 Hope this JupyterLab answer will help you learn this specialization along the way.
 
-Best,
-Shane
+
